@@ -1,0 +1,8 @@
+{
+  "name": "Synapse Meeting AI",
+  "description": "Autonomous AI assistant that extracts verified meeting summaries, decisions, grounded action items, deadlines, and resolves ambiguities with calendar exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
